@@ -2,13 +2,18 @@
 Käytin input-asetuksista "Use Mouse for Touch" - asetusta, koska minulla ei ole kotona ohjainta. 
 Tässä tuo "Mouse for Touch" simuloi ohjaimen oikeaa tattia. Koulussa sain pelin toimimaan XBoxin ohjaimella.
 
+
+
 Tässä on linkki TwinStickShooterin pelivideoon
 
 https://www.youtube.com/watch?v=MEI-zyEvkeQ
 
+
+
 Ja tässä on linkki GitHubin kansioon. 
 
 https://github.com/Reinoosi/TwinStickShooter
+
 
 
 
